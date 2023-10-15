@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there, I'm Enes 
+
+I'm a student/self-taught software developer. I don't have too much experience at this time, but I'm very passionate and looking forward to the future.
 
 <!--
 **P-pisiko/P-pisiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
