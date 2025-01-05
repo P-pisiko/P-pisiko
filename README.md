@@ -9,7 +9,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUwcThydWozbGJpdTRtbzFoa2wyMXI4NGQ4cmF6MnFleDcybmp1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pO4UHglOY2vII/giphy.gif"  />
+<p align="left">Technologies I Use</p>
+
+###
+
+<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUwcThydWozbGJpdTRtbzFoa2wyMXI4NGQ4cmF6MnFleDcybmp1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pO4UHglOY2vII/giphy.gif"  />
 
 ###
 
@@ -53,30 +57,8 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/P-pisiko/P-pisiko/output/snake.svg" alt="Snake animation" />
 
 ###
-
-###
-
-<!--
-**P-pisiko/P-pisiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
