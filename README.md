@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! I'm Enes from Turkey</h2>
+<h2 align="left">Hello there 👋! I'm Enes from Turkey</h2>
+
+###
+
+<p align="left">I'm a computer programmer/system enginner who has been passionate about programming for for the last couple year. I love working on projects in various different fields.</p>
 
 ###
 
@@ -10,10 +14,6 @@
 ###
 
 <p align="left">Technologies I Use</p>
-
-###
-
-<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUwcThydWozbGJpdTRtbzFoa2wyMXI4NGQ4cmF6MnFleDcybmp1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pO4UHglOY2vII/giphy.gif"  />
 
 ###
 
@@ -57,8 +57,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/P-pisiko/P-pisiko/output/snake.svg" alt="Snake animation" />
+<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUwcThydWozbGJpdTRtbzFoa2wyMXI4NGQ4cmF6MnFleDcybmp1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pO4UHglOY2vII/giphy.gif"  />
 
 ###
