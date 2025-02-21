@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Technologies I Use</p>
+<b><h2 align="left">Technologies I Use</h2></b>
 
 ###
 
