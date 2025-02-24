@@ -2,18 +2,18 @@
 
 ###
 
-<p align="left">I'm a computer programmer/system enginner who has been passionate about programming for for the last couple year. I love working on projects in various different fields.</p>
+<h3 align="left">I'm a computer programmer/system engineer who has been passionate about programming for for the last couple year. I love working on projects in various different fields.</h3>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=P-pisiko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=P-pisiko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=P-pisiko&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<b><h2 align="left">Technologies I Use</h2></b>
+<h3 align="left">Technologies I Use</h3>
 
 ###
 
@@ -36,15 +36,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
@@ -53,10 +55,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
 
 ###
 
-<img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUwcThydWozbGJpdTRtbzFoa2wyMXI4NGQ4cmF6MnFleDcybmp1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pO4UHglOY2vII/giphy.gif"  />
+<div align="center">
+  <img height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUwcThydWozbGJpdTRtbzFoa2wyMXI4NGQ4cmF6MnFleDcybmp1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pO4UHglOY2vII/giphy.gif"  />
+</div>
 
 ###
